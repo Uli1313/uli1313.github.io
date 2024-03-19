@@ -46,6 +46,8 @@
 &lt;p&gt;如此一來，就可以讓 HTML 結構的內容就歸在 HTML 檔案中，不會讓整陀複雜的結構出現在 js 檔案中了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/2024/240319/popoverDemo.jpg&#34; alt=&#34;popoverDemo&#34;&gt;&lt;/p&gt;
 &lt;iframe src=&#34;https://codepen.io/uli1313/embed/PogWJxB?height=265&amp;theme-id=default&amp;default-tab=html,result&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;參考資料&#34;&gt;&lt;a href=&#34;#參考資料&#34; class=&#34;headerlink&#34; title=&#34;參考資料&#34;&gt;&lt;/a&gt;參考資料&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://codepen.io/MaruCat/pen/xxMbJpz&#34;&gt;bootstrap5 popover - codepen&lt;/a&gt; &lt;br /&gt;&lt;br&gt;&lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/popovers/&#34;&gt;Popovers - Boostrap v5.3&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="Bootstrap5" />
         <updated>2024-03-19T03:35:06.000Z</updated>

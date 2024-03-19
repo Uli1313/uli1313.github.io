@@ -40,6 +40,8 @@
 <p>如此一來，就可以讓 HTML 結構的內容就歸在 HTML 檔案中，不會讓整陀複雜的結構出現在 js 檔案中了。</p>
 <p><img src="/2024/240319/popoverDemo.jpg" alt="popoverDemo"></p>
 <iframe src="https://codepen.io/uli1313/embed/PogWJxB?height=265&theme-id=default&default-tab=html,result" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe>
+
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://codepen.io/MaruCat/pen/xxMbJpz">bootstrap5 popover - codepen</a> <br /><br><a href="https://getbootstrap.com/docs/5.3/components/popovers/">Popovers - Boostrap v5.3</a></p>
 ]]></content>
       <categories>
         <category>Bootstrap5</category>
