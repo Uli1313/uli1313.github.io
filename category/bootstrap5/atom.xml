@@ -5,6 +5,7 @@
     <link href="http://uli1313.github.io" />
     <updated>2024-03-19T03:35:06.000Z</updated>
     <category term="Bootstrap5" />
+    <category term="Popovers" />
     <entry>
         <id>http://uli1313.github.io/2024/240319/</id>
         <title>Bootstrap5 Popovers 基本使用及客製</title>
@@ -57,6 +58,7 @@
 &lt;h2 id=&#34;參考資料&#34;&gt;&lt;a href=&#34;#參考資料&#34; class=&#34;headerlink&#34; title=&#34;參考資料&#34;&gt;&lt;/a&gt;參考資料&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://codepen.io/MaruCat/pen/xxMbJpz&#34;&gt;bootstrap5 popover - codepen&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/popovers/&#34;&gt;Popovers - Boostrap v5.3&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="Bootstrap5" />
+        <category term="Popovers" />
         <updated>2024-03-19T03:35:06.000Z</updated>
     </entry>
 </feed>
