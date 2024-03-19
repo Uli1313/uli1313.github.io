@@ -39,9 +39,16 @@
 <p>這邊把 HTML 結構放在 HTML 檔案中並用 <code>.d-none</code> 包住，避免直接顯示在畫面上。接著在 <code>.d-none</code> 以及 HTML 結構中插入一個 <code>div</code> 並給予 id。最後在 <code>content</code> 我們就可以選取該 id 元素，當點開 popover 時，就可以看到整個結構都出現在畫面上了～</p>
 <p>如此一來，就可以讓 HTML 結構的內容就歸在 HTML 檔案中，不會讓整陀複雜的結構出現在 js 檔案中了。</p>
 <p><img src="/2024/240319/popoverDemo.jpg" alt="popoverDemo"></p>
-<iframe src="https://codepen.io/uli1313/embed/PogWJxB?height=265&theme-id=default&default-tab=html,result" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe>
+<h2 id="其他好用的選項"><a href="#其他好用的選項" class="headerlink" title="其他好用的選項"></a>其他好用的選項</h2><p>這邊也分享幾個自己覺得挺好用的設定，所有選項見<a href="https://getbootstrap.com/docs/5.3/components/popovers/#options">官方文件</a></p>
+<h3 id="調整-popover-的位置"><a href="#調整-popover-的位置" class="headerlink" title="調整 popover 的位置"></a>調整 popover 的位置</h3><p>預設的 popover 箭頭都會出現在上下左右邊的正中間，我們可以透過 <code>offset</code> 選項來調整位置。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> cusPopoverItem = <span class="keyword">new</span> bootstrap.<span class="title class_">Popover</span>(cusPopover, &#123;</span><br><span class="line">  ...</span><br><span class="line">  <span class="attr">offset</span>: [<span class="number">80</span>, <span class="number">20</span>], <span class="comment">// offset: &#x27;80, 20&#x27; 這樣寫也可以</span></span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<p><img src="/2024/240319/popoverDemoOffset.jpg" alt="popoverDemoOffset"></p>
+<h3 id="點空白處關閉-popover"><a href="#點空白處關閉-popover" class="headerlink" title="點空白處關閉 popover"></a>點空白處關閉 popover</h3><p>預設需要點擊按鈕才可以關閉 popover，我們可以透過 <code>trigger</code> 選項來調整。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> cusPopoverItem = <span class="keyword">new</span> bootstrap.<span class="title class_">Popover</span>(cusPopover, &#123;</span><br><span class="line">  ...</span><br><span class="line">  <span class="attr">trigger</span>: <span class="string">&#x27;focus&#x27;</span></span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
 
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://codepen.io/MaruCat/pen/xxMbJpz">bootstrap5 popover - codepen</a> <br /><br><a href="https://getbootstrap.com/docs/5.3/components/popovers/">Popovers - Boostrap v5.3</a></p>
+<h2 id="完整程式碼"><a href="#完整程式碼" class="headerlink" title="完整程式碼"></a>完整程式碼</h2><iframe src="https://codepen.io/uli1313/embed/PogWJxB?height=265&theme-id=default&default-tab=html,result" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe>
+
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://codepen.io/MaruCat/pen/xxMbJpz">bootstrap5 popover - codepen</a><br><a href="https://getbootstrap.com/docs/5.3/components/popovers/">Popovers - Boostrap v5.3</a></p>
 ]]></content>
       <categories>
         <category>Bootstrap5</category>
