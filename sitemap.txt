@@ -1,3 +1,4 @@
+http://uli1313.github.io/2024/240411/
 http://uli1313.github.io/2024/240409/
 http://uli1313.github.io/2024/240326/
 http://uli1313.github.io/2024/240319/
@@ -13,6 +14,8 @@ http://uli1313.github.io/tags/Popovers/
 http://uli1313.github.io/tags/Vue3/
 http://uli1313.github.io/tags/CKEditor5/
 http://uli1313.github.io/tags/JavaScript/
+http://uli1313.github.io/tags/CSS/
 http://uli1313.github.io/categories/Bootstrap5/
 http://uli1313.github.io/categories/CKEditor5/
 http://uli1313.github.io/categories/JavaScript/
+http://uli1313.github.io/categories/CSS/

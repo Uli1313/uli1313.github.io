@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://uli1313.github.io/2024/240411/</loc>
+    
+    <lastmod>2024-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://uli1313.github.io/2024/240409/</loc>
     
     <lastmod>2024-04-09</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://uli1313.github.io/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,35 +102,42 @@
   
   <url>
     <loc>http://uli1313.github.io/tags/Bootstrap5/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/tags/Popovers/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/tags/Vue3/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/tags/CKEditor5/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/tags/JavaScript/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://uli1313.github.io/tags/CSS/</loc>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -130,21 +146,28 @@
   
   <url>
     <loc>http://uli1313.github.io/categories/Bootstrap5/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/categories/CKEditor5/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uli1313.github.io/categories/JavaScript/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://uli1313.github.io/categories/CSS/</loc>
+    <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
